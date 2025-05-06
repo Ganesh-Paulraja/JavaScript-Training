@@ -1,0 +1,10 @@
+.gg-login-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.gg-login-wrap .gg-login {
+  max-width: 1000px;
+}
