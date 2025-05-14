@@ -65,7 +65,7 @@ const data1 = {
 //     .then(data => console.log('PUT:', data))
 //     .catch(error => console.error('Error:', error));
 
-fetch('https://dummyjson.com/posts/delete', {
+fetch('https://dummyjson.com/posts/2', {
     method: 'DELETE'
   })
     .then(() => console.log('DELETE: Resource deleted'))
